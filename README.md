@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Maanav Shinde</h1>
+<h3 align="center">A passionate Game Developer and Software Developer. Currently pursuing BTech Computer Science.</h3>
+
+- 💬 Ask me about:  **Java, C++, c#, Unity, HTML, CSS**
+
+- 📫 How to reach me:  **https://www.linkedin.com/in/maanav-shinde-7even**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
