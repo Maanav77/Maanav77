@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Maanav Shinde</h1>
-<h3 align="center">A passionate Game Developer and Software Developer. Currently pursuing BTech Computer Science.</h3>
+<h3 align="center">A passionate Game Developer and Software Developer. BTech in Computer Science.</h3>
 
 - 💬 Ask me about:  **Java, C++, c#, Unity, HTML, CSS**
 
