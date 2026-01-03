@@ -5,13 +5,15 @@
 <h1 align="center">Hi 👋, I'm Maanav Shinde</h1>
 
 <h3 align="center">
-A passionate Software Developer and Game Developer.<br/>
+Software Developer & Game Developer <br/>
 B.Tech in Computer Science (Gaming Technology)
 </h3>
 
 ---
 
 ### 🚀 About Me
+- 🎓 Completed **B.Tech in Computer Science (Gaming Technology)**
+- 💼 Currently working as an **Assistant System Engineer at TCS**
 - 💬 Ask me about: **Java, C++, C#, Unity, HTML, CSS**
 - 🌐 Independently designed, developed, and deployed the website: <b>https://arihantafruits.com</b>
 - 📫 How to reach me: **https://www.linkedin.com/in/maanav-shinde-7even**
